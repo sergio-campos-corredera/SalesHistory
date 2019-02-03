@@ -10,7 +10,7 @@ For installing the project you have to complete these steps:
 
 ---
 **NOTE**
-The installation script is prepared for working with defaults credentials. If you have changed them, you must to update install.sh script and ./obiee/reporting/credentials.properties file.
+> The installation script is prepared for working with defaults credentials. If you have changed them, you must to update install.sh script and ./obiee/reporting/credentials.properties file.
 ---
 
 1. Checkout this project in virtual machine referenced before
